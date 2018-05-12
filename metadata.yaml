@@ -1,0 +1,36 @@
+_repo: The-28th--A-Record-of-War-Service-in-the-Australian-Imperial-Force-1915-19-Vol.-IEgypt-Gallip__25341
+_version: 0.1.0
+alternative_title: "Twenty-eighth: A Record of War Service in the Australian Imperial\
+  \ Force, 1915-19, Vol. I\r\nEgypt, Gallipoli, Lemnos Island, Sinai Peninsula"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collett, Herbert Brayley
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '31262'
+    url: http://www.gutenberg.org/2009/agents/31262
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Collett
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Australia
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Australia'
+- !lcc 'D501'
+- !lcsh 'Australia. Australian Army. Battalion, 28th'
+title: 'The 28th: A Record of War Service in the Australian Imperial Force, 1915-19,
+  Vol. I
+
+  Egypt, Gallipoli, Lemnos Island, Sinai Peninsula'
+url: http://www.gutenberg.org/ebooks/25341
