@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31262
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Collett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25341#The-28th--A-Record-of-War-Service-in-the-Australian-Imperial-Force-1915-19-Vol.-IEgypt-Gallip_
 gutenberg_bookshelf:
 - World War I
 - Australia
